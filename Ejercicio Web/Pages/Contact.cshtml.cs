@@ -25,7 +25,8 @@ namespace Ejercicio_Web.Pages
             try
             {
                 Console.WriteLine(senderEmail);
-               
+                //Estas credenciales son de un mail secundario por lo que las puedo escribir acá.
+                //Normalmente la password iria en una variable de entorno, pero por fines practicos al ejercicio está aquí listada
                 string smtpServer = "smtp.gmail.com";
                 int smtpPort = 587; 
                 string smtpUsername = "felix.lerner001@gmail.com";
@@ -48,7 +49,7 @@ namespace Ejercicio_Web.Pages
                 }
 
                
-                return RedirectToPage("/Index");
+                return RedirectToPage("/MailSent");
             }
             catch (Exception ex)
             {
