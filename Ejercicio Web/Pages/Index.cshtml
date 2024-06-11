@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Profile";
+    ViewData["Linkedin"] = "https://www.linkedin.com/in/flerner/";
+    ViewData["Github"] = "https://github.com/flerner";
+    ViewData["Portfolio"] = "https://portfolio-xi-gold-29.vercel.app/";
+}
+
+<div class="container mt-5 text-white">
+    <div class="row">
+        <div class="col-md-4 text-center">
+
+            <img src="~/img/profile-photo.jpg" class="img-fluid rounded-circle" alt="Profile Photo" style="width: 200px; height: 200px; object-fit: cover;">
+        </div>
+        <div class="col-md-8">
+
+            <h1>@ViewData["Name"]</h1>
+            <p>
+                @ViewData["Description"]
+            </p>
+
+            <div class="mt-4">
+                <h4>Connect with me:</h4>
+                <a href="@ViewData["Linkedin"]" target="_blank" class="btn btn-primary btn-sm me-2">LinkedIn</a>
+                <a href="@ViewData["GitHub"]" target="_blank" class="btn btn-dark btn-sm me-2">GitHub</a>
+                <a href="@ViewData["Portfolio"]" target="_blank" class="btn btn-info btn-sm me-2">Porfolio</a>
+            </div>
+
+            <div class="mt-4">
+                <a href="~/files/resume.pdf" class="btn btn-success btn-lg" download="Resume.pdf">Download Resume</a>
+            </div>
+        </div>
+        
+    </div>
+    <div class="col-md-8 mt-5 text-center">
+        Hello! Here's a humble shortcut to my socials and resume.
+    </div>
+</div>

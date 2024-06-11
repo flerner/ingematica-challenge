@@ -1,0 +1,25 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1 class="text-white">@ViewData["Title"]</h1>
+
+<p class="text-white">Contact me</p>
+
+<form method="post" class="text-white">
+    <div class="mb-3">
+        <label for="senderEmail" class="form-label">Your Email Address</label>
+        <input type="email" class="form-control" id="senderEmail" name="senderEmail" required>
+    </div>
+    <div class="mb-3">
+        <label for="subject" class="form-label">Subject</label>
+        <input type="text" class="form-control" id="subject" name="subject" required>
+    </div>
+    <div class="mb-3">
+        <label for="message" class="form-label">Message</label>
+        <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Send Email</button>
+</form>

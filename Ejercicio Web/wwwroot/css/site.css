@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+    margin: 0;
+
+    background-color: black;
+    color: white;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    background-color: black;
+}
+
+header{
+    color: white;
+}
+body {
+    margin-bottom: 60px;
+}
+
+.container {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.navbar-dark {
+    background-color: #343a40;
+}
+.navbar{
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+     color: white; 
+}
+.footer {
+    margin-top: auto;
+    background-color: #343a40; /* Same color as the navbar */
+    color: white; /* Text color for the footer */
+}

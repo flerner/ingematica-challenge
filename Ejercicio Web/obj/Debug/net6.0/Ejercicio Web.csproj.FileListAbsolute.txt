@@ -1,0 +1,31 @@
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\appsettings.Development.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\appsettings.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\Ejercicio Web.staticwebassets.runtime.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\Ejercicio Web.exe
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\Ejercicio Web.deps.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\Ejercicio Web.runtimeconfig.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\Ejercicio Web.dll
+E:\Ingematica\Ejercicio Web\Ejercicio Web\bin\Debug\net6.0\Ejercicio Web.pdb
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.csproj.AssemblyReference.cache
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.AssemblyInfoInputs.cache
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.AssemblyInfo.cs
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.csproj.CoreCompileInputs.cache
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.RazorAssemblyInfo.cache
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.RazorAssemblyInfo.cs
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets\msbuild.Ejercicio Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Ejercicio Web.props
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ejercicio Web.props
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ejercicio Web.props
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\scopedcss\bundle\Ejercicio Web.styles.css
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\scopedcss\projectbundle\Ejercicio Web.bundle.scp.css
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.dll
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\refint\Ejercicio Web.dll
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.pdb
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\Ejercicio Web.genruntimeconfig.cache
+E:\Ingematica\Ejercicio Web\Ejercicio Web\obj\Debug\net6.0\ref\Ejercicio Web.dll
